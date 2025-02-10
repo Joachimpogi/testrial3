@@ -1,7 +1,4 @@
-#scrolldown {
-    padding: 20px;
-    height: 200px;
-    width: 200px;
+h1 {
+    color: red;
     background-color: #FF5733;
-    position: fixed;
 }
